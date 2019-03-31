@@ -62,5 +62,4 @@ ssh –L 8888:gra467:8088 username@graham.computecanada.ca
 Now open a browser on your local computer and type localhost:8888 and it should bring up the resource manager. When you click on a spark submitted application, the URL will change to gra467:8088/proxy/application_1554012802661_0002/. You want to change that back to localhost:8888/proxy/application_1554012802661_0002.
 
 
-![](imgs/ssh_tunneling.JPG)
 ![](imgs/hadoop_ui.JPG)
